@@ -44,6 +44,7 @@ It automatically detects and handles:
 
 ## ⚙️ Configuration (`config.yml`)
 
+```yaml
 # ChatGuard Configuration File
 # Colors: &0-&f, &l (bold), &o (italic), &n (underline), &m (strikethrough), &k (magic), &r (reset)
 
@@ -66,26 +67,30 @@ badword-replace-mode: replace
 replacement-word: '#CENSORED#'
 
 debug-mode: true
+````
 
 ---
 
 ## 🖼️ Gallary
 
-Showcase of **ChatGuard** in action — screenshots of chat protection, staff alerts, and configuration examples.
-
 ### 💬 Foul Language Detection
+
 ![Foul Language](FoulLanguage.png)
 
 ### 🚫 Spam Detection
+
 ![Spam](Spam.png)
 
 ### 📢 Advertisement Block
+
 ![Advertisement](advertise.png)
 
 ### ⚫ Blacklist Management
+
 ![Blacklist](blacklist.png)
 
 ### ⚙️ Commands & Config Preview
+
 ![Commands](command.png)
 
 ---
