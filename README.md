@@ -73,17 +73,20 @@ debug-mode: true
 
 Showcase of **ChatGuard** in action — screenshots of chat protection, staff alerts, and configuration examples.
 
-### 💬 Chat Filter Example
-![Chat Filter Example](https://prnt.sc/COUfKyeZBY7p)
+### 💬 Foul Language Detection
+![Foul Language](FoulLanguage.png)
 
 ### 🚫 Spam Detection
-![Spam Detection](https://prnt.sc/JaL0bfPT6TDg)
+![Spam](Spam.png)
 
 ### 📢 Advertisement Block
-![Advertisement Block](https://prnt.sc/yXynYQTx9wGf)
+![Advertisement](advertise.png)
 
-### ⚙️ Config & Commands Preview
-![Configuration](https://prnt.sc/zgaIi-49yYFX)
+### ⚫ Blacklist Management
+![Blacklist](blacklist.png)
+
+### ⚙️ Commands & Config Preview
+![Commands](command.png)
 
 ---
 
