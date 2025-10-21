@@ -44,7 +44,6 @@ It automatically detects and handles:
 
 ## ⚙️ Configuration (`config.yml`)
 
-```yaml
 # ChatGuard Configuration File
 # Colors: &0-&f, &l (bold), &o (italic), &n (underline), &m (strikethrough), &k (magic), &r (reset)
 
@@ -67,3 +66,25 @@ badword-replace-mode: replace
 replacement-word: '#CENSORED#'
 
 debug-mode: true
+
+---
+
+## 🖼️ Gallary
+
+Showcase of **ChatGuard** in action — screenshots of chat protection, staff alerts, and configuration examples.
+
+### 💬 Chat Filter Example
+![Chat Filter Example](https://prnt.sc/COUfKyeZBY7p)
+
+### 🚫 Spam Detection
+![Spam Detection](https://prnt.sc/JaL0bfPT6TDg)
+
+### 📢 Advertisement Block
+![Advertisement Block](https://prnt.sc/yXynYQTx9wGf)
+
+### ⚙️ Config & Commands Preview
+![Configuration](https://prnt.sc/zgaIi-49yYFX)
+
+---
+
+**Created with ❤️ to keep your Minecraft chat safe and friendly.**
