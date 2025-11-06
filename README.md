@@ -1,4 +1,4 @@
-# 💬 ChatGuard
+# 💬 ChatGuard ( Made using AI just for fun )
 
 **ChatGuard** is a powerful and lightweight **Minecraft chat protection plugin** designed to keep your server chat **clean, safe, and enjoyable** for everyone.
 
